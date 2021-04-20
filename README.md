@@ -3,7 +3,7 @@
 ## Olá pessoal 👋
 Curioso, com muita energia e empolgação pra aprender e compartilhar conhecimento.
 
-<br/> :computer: &nbsp; Lead FullStack Developer
+<br/> :computer: &nbsp; Lead Software Developer
 <br/> :green_heart: &nbsp; Arquitetura de software
 <br/> :hammer: &nbsp; PHP, Javascript, Node.js, Typescript, VueJs, ReactJS & React Native
 <br/> :email: &nbsp;
