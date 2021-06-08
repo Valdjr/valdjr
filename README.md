@@ -1,4 +1,4 @@
-## Olá pessoal 👋
+## 🖖
 Curioso, com muita energia e empolgação pra aprender e compartilhar conhecimento.
 
 <br/> :computer: &nbsp; Lead Software Developer
