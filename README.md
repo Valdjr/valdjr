@@ -1,5 +1,3 @@
-<img width="500" align="right" src="https://valdjr.com.br/img/banner/about1.png">
-
 ## Olá pessoal 👋
 Curioso, com muita energia e empolgação pra aprender e compartilhar conhecimento.
 
