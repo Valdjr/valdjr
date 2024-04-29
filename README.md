@@ -1,6 +1,6 @@
 
 ### Hello, I'm Valdir 👋
-I am a software engineer from Brazil and I like to code in javascript 😬
+I am a software engineer from Brazil and I like to code in javascript 🤓
 
 **About me**
 
